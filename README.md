@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this analysis is to analyze the Superstore data using data visualization and association rules learning to discover products that customers tend to purchase together and uncover trends related to sales and profits to help Superstore make decisions regarding related to their products and pricing strategy. 
+The purpose of this analysis is to use data visualization and association rules learning to discover products that Superstore customers tend to purchase together and uncover trends related to sales and profits to help Superstore make decisions regarding related to their products and pricing strategy. 
 
 ## Results
 
@@ -12,4 +12,4 @@ The purpose of this analysis is to analyze the Superstore data using data visual
 
 ## Summary 
 
-Superstore can improve profit by ensuring that they do not offer too large of discounts. In addition, they may want to consider discontinuing the sale of specific unprofitable products. For product categories, they may consider not selling tables because of how unprofitable they are, and they aren't positively associated with the sale of other product categories. Further analysis is required to examine the reasons for unprofitability on a state level. 
+Superstore can improve profit by ensuring that they do not offer too large of discounts. In addition, they may want to consider discontinuing the sale of specific unprofitable products. For product categories, they should consider not selling tables because of how unprofitable they are, and based on the market basket analysis they aren't positively associated with the sale of other product categories. Further analysis is required to examine the reasons for unprofitability on a state level. 
